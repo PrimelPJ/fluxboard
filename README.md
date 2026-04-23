@@ -45,7 +45,6 @@ cd server && npm install && npm start
 cd client && npm install && npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173).
 
 ---
 
@@ -134,7 +133,3 @@ fluxboard/
 ```
 
 ---
-
-## License
-
-MIT
